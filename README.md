@@ -9,6 +9,7 @@ Runs on [Jikan API](https://jikan.moe/), an unofficial MyAnimeList API. The API 
 MALSuggest is a program written in Python.
 
 To run, open main.py in an IDE (Ex. [PyCharm](https://www.jetbrains.com/pycharm/download/)) or install the following dependency with pip:
+
 `
 pip install jikanpy
 `

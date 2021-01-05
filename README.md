@@ -19,6 +19,7 @@ Open `user.txt` and type the MAL username on line 1 and the media type (anime/ma
 Example file input:
 `
 Shimmy04
+
 anime
 `
 

@@ -16,13 +16,6 @@ pip install jikanpy
 
 Open `user.txt` and type the MAL username on line 1 and the media type (anime/manga) on line 2.
 
-Example file input:
-`
-Shimmy04
-
-anime
-`
-
 When main.py is finished running, 5 suggestions will be in `suggustions.txt` in the form of MAL links. The user's genres will be listed by score in `topgenres.txt`. Note that the assigned scores do not correspond to MAL scores. A list of all completed animanga with their genres sorted by user assigned scores can be found in `data/test`.
 
 Written in Python with the JikanPy Python Wrapper library.

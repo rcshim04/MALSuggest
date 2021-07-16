@@ -7,14 +7,25 @@ parse, search and suggest a new animanga
 import settings as s
 from time import sleep
 import math
+import os
+
+"""
+loadMAL function
+=================================================
+Accesses user's animanga list and saves to file
+"""
+def loadMAL():
+    pass
 
 """
 load function
 =================================================
-Accesses user's animanga list and saves to file
+Accesses user's animanga information and saves to list
 """
 def load():
     print('Started Loading...')
+
+    os.listdir()
 
     animangalist = []
     page = 1
